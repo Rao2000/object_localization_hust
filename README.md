@@ -11,6 +11,5 @@ rest for testing.
 * Step #1: implementing the localization network using direct bbox regression
 * Step #2: adding anchors in the localization network
 * Extra credit: multiple object localization using your own network
-* Extra credit: multiple object localization using your own network
 
 
