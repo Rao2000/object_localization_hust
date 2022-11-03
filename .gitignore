@@ -2,4 +2,4 @@ log/
 tiny_vid/*
 resnet50.pth
 obj_det/
-_pycache_/
+__pycache__/
